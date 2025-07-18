@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name] — Aspiring Software Engineer
+# 👋 Hi there! I'm Bhageshree Giri — Aspiring Software Engineer
 
 🎓 Final Year B.E. Computer Engineering Student (2026 Batch)  
 💡 Learning Data Science | Web Development | WordPress Website Design | Machine learning | AI
