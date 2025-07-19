@@ -30,7 +30,7 @@
 ---
 
 ## 🔥 Current Focus
-- Making beginner-friendly open-source contributions (to prepare for rtCamp & other roles)
+- Making beginner-friendly open-source contributions 
 - Building WordPress websites & themes
 - Strengthening Python & DSA for placement season
 
