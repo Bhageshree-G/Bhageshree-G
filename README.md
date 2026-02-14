@@ -2,6 +2,7 @@
 
 🎓 Final Year B.E. Computer Engineering Student (2026 Batch)  
 💡 Learning Data Science | Web Development | WordPress Website Design | Machine learning | AI 
+
 📍 Based in India | Available for Internships/Jobs  
 🎯 Preparing for roles like Software Engineer 
 
