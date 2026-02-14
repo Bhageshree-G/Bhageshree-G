@@ -1,8 +1,7 @@
 # 👋 Hi there! I'm Bhageshree Giri — Aspiring Software Engineer
 
 🎓 Final Year B.E. Computer Engineering Student (2026 Batch)  
-💡 Learning Data Science | Web Development | WordPress Website Design | Machine learning | AI
-🌱 Passionate about Open Source and Creative Coding  
+💡 Learning Data Science | Web Development | WordPress Website Design | Machine learning | AI 
 📍 Based in India | Available for Internships/Jobs  
 🎯 Preparing for roles like Software Engineer 
 
@@ -29,25 +28,10 @@
 
 ---
 
-## 🔥 Current Focus
-- Making beginner-friendly open-source contributions 
-- Building WordPress websites & themes
-- Strengthening Python & DSA for placement season
-
----
-
 ## 📌 Projects I'm Working On
 - Python-based Data Analysis Projects
 - Web deveploment based
 - WordPress Portfolio Website (Design + Deployment)
-
----
-
-## 🌍 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/bhageshri-g-b5866a321)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Bhageshree-Giri)
-
 
 ---
 
