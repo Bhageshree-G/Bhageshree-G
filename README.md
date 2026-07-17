@@ -1,29 +1,38 @@
-Hi, I'm Bhageshree Giri
+# Hi, I'm Bhageshree 👋
 
-🎓 Computer Engineering Graduate
-📊 Aspiring Data Analyst | Machine Learning | Data Science | AI Engineer
+Computer Engineering Graduate
 
-💻 Skills
-• Python
-• SQL
-• Power BI
-• Excel
-• HTML
-• CSS
-• JavaScript
-• Machine Learning
+I enjoy building backend applications using Python and Django.
 
-📚 Currently Learning
-• Advanced SQL
-• Data Analytics
-• Deep Learning
-• RAG Applications
+## Tech Stack
 
-🚀 Projects
-📌 AI Teaching Assistant (RAG)
-📌 Employee Salary Prediction
-📌 Power BI Sales Dashboard
+🐍 Python
 
-📫 Connect with me
+🌐 Django
+
+⚡ Flask
+
+🗄️ MySQL
+
+💾 SQLite
+
+🎨 HTML, CSS, JavaScript
+
+🔧 Git & GitHub
+
+## Projects
+
+• HireLink – Campus Placement System
+• AI Teaching Assistant (RAG)
+• Diabetes Prediction System
+
+## Currently Learning
+
+• Django REST Framework
+• REST APIs
+• Deployment
+
+## Connect With Me
+
 LinkedIn:www.linkedin.com/in/bhageshree-g-b5866a321
 Email:giribhageshree@gmail.com
